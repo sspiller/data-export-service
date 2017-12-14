@@ -32,4 +32,4 @@ USER node
 
 EXPOSE 3001
 
-CMD node ./app.js
+CMD yarn start
